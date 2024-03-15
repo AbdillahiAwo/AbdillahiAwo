@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AbdillahiAwo
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me awoabdi29@gmail.com
 
